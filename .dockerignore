@@ -1,0 +1,4 @@
+*.md
+*.png
+./deploy-prometheus
+./deploy-adot
